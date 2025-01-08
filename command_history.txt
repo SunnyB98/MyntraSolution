@@ -1,0 +1,25 @@
+git --version
+date
+time
+cd ..
+dir
+cd Day_1
+git clone https://github.com/SunnyB98/MyntraSolution.git
+cd MyntraSolution
+git status
+git add README.md
+.git status
+git status
+git add brs.md
+git status
+git add .
+git status
+git commit -m "Business Requirement Document first draft"
+git push
+git status
+git add .
+git status
+git commit -m "latest changes in main file"
+git push
+doskey /history
+doskey /history > command_history.txt
